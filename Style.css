@@ -13,6 +13,7 @@
     border: 5px solid red;
     background-color: lightcoral;
     margin:0px 100px 150px 10px;
+    box-shadow: 20px 30px 50px lightblue;
 }
 
 
@@ -23,6 +24,7 @@
     border: 5px solid green;
     background-color: lightgreen;
     padding: 50px 20px 200px 100px;
+    box-shadow: 20px 30px 50px lightblue;
 }
 
 
